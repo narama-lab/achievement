@@ -1,0 +1,41 @@
+.achievement-main{
+	
+	color:#333;
+}
+.achievement-title{
+	width:920px;
+	margin-top:40px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left: 18px;
+	border-bottom:2px solid #333;
+	letter-spacing: 5px;
+}
+.achievement-title-second{
+	margin-top:30px;
+}
+.container{
+	border-bottom: 1px solid #333;
+}
+.container li{
+	margin-top: 18px;
+}
+.small-title{
+	background-color: #ececec;
+	color:#fff;
+	margin-top: 40px;
+	height:40px;
+	line-height: 40px;
+	padding-left: 18px;
+}
+ul{
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.perform{
+	margin-bottom: 180px;
+}
+.perform .perform-list{
+	margin-top: 23px;
+}
