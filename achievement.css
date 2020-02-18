@@ -11,6 +11,9 @@
 .achievement-title-second{
 	margin-top: 80px;
 }
+.achievement-title-third{
+	margin-top: 40px;
+}
 .container{
 	border-bottom: 1px solid #333;
 }
@@ -35,4 +38,7 @@ ul{
 }
 .perform .perform-list{
 	margin-top: 23px;
+}
+.research-expense li{
+	margin-top: 18px;
 }
