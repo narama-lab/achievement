@@ -39,11 +39,17 @@ ul{
 	margin-bottom: 20px;
 }
 .perform{
-	margin-bottom: 180px;
+	margin-bottom: 90px;
 }
 .perform .perform-list{
 	margin-top: 23px;
 }
 .research-expense li{
 	margin-top: 18px;
+}
+.job{
+	margin-bottom: 90px;
+}
+.job li{
+	margin-top: 23px;
 }
