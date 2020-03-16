@@ -28,11 +28,6 @@ header{
     font-family:'Alegreya Sans SC', sans-serif;
     font-size:25px;
 }
-.top{
-    height:400px;
-    background-image:url("キービジュアル圧縮70.jpg");
-    background-size:cover;
-}
 .navi{
     height:55px;
     background-color:rgba(34,49,52,0.9);
