@@ -53,3 +53,22 @@ ul{
 .job li{
 	margin-top: 23px;
 }
+.job-fir{
+	font-weight:700;
+}
+.job-sec{
+	font-weight: 700;
+	color:#FF0000;
+}
+.job-thi{
+	font-weight: 700;
+	color:#0070C0;
+}
+.job-for{
+	font-weight: 700;
+	color:#01B050;
+}
+.job-fif{
+	font-weight: 700;
+	color: #C00001;
+}
